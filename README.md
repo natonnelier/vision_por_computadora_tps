@@ -10,3 +10,8 @@
 ## TP1
 
 Desarrollo en [TP1/tp1.ipynb](TP1/TP1.ipynb)
+
+## TP2 (EN PROCESO)
+
+Desarrollo en [TP2/TP2.ipynb](TP2/TP2.ipynb)
+
