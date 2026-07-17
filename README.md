@@ -1,4 +1,4 @@
-## Trabajo Práctico 1 - Visión por Computadora
+## Trabajos prácticos - Visión por Computadora I
 
 Integrantes:
 - Matías Guillermo Alfaro
@@ -7,4 +7,6 @@ Integrantes:
 - Nicolas Alberto Tonnelier
 - Marina Andrea Racciatti
 
-### Desarrollo en [tp1.ipynb](tp1.ipynb)
+### TP1
+
+Desarrollo en [TP1/tp1.ipynb](TP1/tp1.ipynb)
